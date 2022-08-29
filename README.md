@@ -1,4 +1,4 @@
-AVR Thermostat
+# AVR Thermostat
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
